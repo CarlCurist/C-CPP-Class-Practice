@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1428974955 source:c:\documents and settings\administrator\×ÀÃæ\safearray\main.cpp
+	<iostream>
+	"SafeArrary.h"
+
+1428976277 c:\documents and settings\administrator\×ÀÃæ\safearray\safearrary.h
+
+1428976277 source:c:\documents and settings\administrator\×ÀÃæ\safearray\safearray.cpp
+	"SafeArrary.h"
+
