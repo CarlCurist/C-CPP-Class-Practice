@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1430063290 source:c:\users\carlcurist\desktop\队列-容器和迭代器分开(友元)\main.cpp
+	<iostream>
+	"iterator.h"
+
+1429965536 c:\users\carlcurist\desktop\队列-容器和迭代器分开(友元)\queue.h
+
+1429964257 source:c:\users\carlcurist\desktop\队列-容器和迭代器分开(友元)\queue.cpp
+	"queue.h"
+	<stdio.h>
+
+1429967596 c:\users\carlcurist\desktop\队列-容器和迭代器分开(友元)\iterator.h
+	"queue.h"
+
+1430063214 source:c:\users\carlcurist\desktop\队列-容器和迭代器分开(友元)\iterator.cpp
+	<cstdio>
+	"iterator.h"
+
